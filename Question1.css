@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body{
+	border: solid;
+	border-width: 5px;
+	border-color: black;
+	margin-left: 210px;
+	margin-right: 210px;
+}
+td{
+	border: solid;
+	border-width: 2px;
+	border-color: black;
+	text-align: center;
+}
